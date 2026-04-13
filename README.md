@@ -28,5 +28,5 @@ Tugas ini merupakan bagian dari modul praktikum pertemuan pertama yang bertujuan
 4.  Gunakan plugin **Live Server** untuk melihat hasil desain secara langsung di browser.
 
 ---
-*Dibuat untuk memenuhi tugas praktikum Pemrograman Web - Universitas Amikom Yogyakarta (2024)*.
+*Dibuat untuk memenuhi tugas praktikum Pemrograman Web - Universitas Amikom Yogyakarta (2026)*.
 
