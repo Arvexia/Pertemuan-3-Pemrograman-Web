@@ -1,46 +1,32 @@
-**Pertemuan 4 - Pemrograman Web 🚀**
-Repositori ini berisi hasil pengerjaan tugas praktikum mata kuliah Pemrograman Web yang fokus pada pengenalan struktur data menggunakan List, penyajian data terstruktur dengan Table, serta interaksi pengguna melalui Form.
+# Pertemuan 4 - Pemrograman Web 🚀
 
-👤 Identitas Mahasiswa
-Nama: Muhammad Arifin Mukhlis
+[cite_start]Repositori ini berisi hasil pengerjaan tugas praktikum mata kuliah **Pemrograman Web** yang fokus pada penggunaan **List**, **Table**, dan **Form** dalam HTML[cite: 1, 3].
 
-NIM: 24.11.6282
+## 👤 Identitas Mahasiswa
+- **Nama:** Muhammad Arifin Mukhlis
+- **NIM:** 24.11.6282
+- **Instansi:** Universitas Amikom Yogyakarta
 
-Instansi: Universitas Amikom Yogyakarta
+## 📝 Deskripsi Tugas
+[cite_start]Tugas ini merupakan bagian dari modul praktikum pertemuan kedua yang bertujuan untuk memahami cara mengelompokkan data menggunakan list, menampilkan data secara terstruktur melalui tabel, serta mengumpulkan informasi dari pengguna melalui formulir[cite: 1, 4, 68, 245]. [cite_start]Halaman ini menampilkan **Daftar Buku** menggunakan tabel yang kompleks dan **Formulir Isian** dengan berbagai kontrol input[cite: 467, 475].
 
-📝 Deskripsi Tugas
-Tugas ini merupakan bagian dari modul praktikum pertemuan kedua yang diimplementasikan pada pertemuan keempat. Fokus utama tugas ini adalah memahami cara mengelompokkan data, menyusun informasi dalam bentuk baris dan kolom yang kompleks, serta membangun formulir input data yang fungsional.
+### Fitur & Tag yang Digunakan:
+* [cite_start]**List (`<ul>` & `<ol>`):** Digunakan untuk membuat daftar mata kuliah dan data prodi secara terurut maupun menggunakan simbol[cite: 12, 20].
+* [cite_start]**Table (`<table>`, `<tr>`, `<td>`, `<th>`):** Digunakan untuk membangun kerangka data yang memiliki format kolom dan baris[cite: 71].
+* [cite_start]**Merging (`rowspan` & `colspan`):** Digunakan untuk menggabungkan sel tabel guna mengatur tata letak gambar cover buku dan judul kolom[cite: 81, 82].
+* [cite_start]**Form & Input:** Menggunakan tag `<form>` dan `<input>` untuk berbagai tipe seperti `text`, `password`, `radio`, dan `checkbox`[cite: 248, 251, 306, 320, 347].
+* [cite_start]**Dropdown & Textarea:** Penggunaan tag `<select>` untuk pilihan menu dan `<textarea>` untuk input teks yang lebih panjang[cite: 276, 343].
+* [cite_start]**Fieldset & Legend:** Digunakan untuk mengelompokkan elemen formulir secara visual agar lebih rapi[cite: 360, 361, 365].
 
-Fitur & Tag yang Digunakan:
+## 📂 Struktur File
+* `challenge_24.11.6282.html`: File utama kode HTML yang berisi implementasi tabel dan form.
+* `Pemrog web.png`: Asset gambar cover buku yang digunakan di dalam tabel.
 
-HTML List (<ul>, <ol>, <li>): Digunakan untuk membuat daftar terurut (Ordered List) dan daftar peluru (Unordered List).
+## 🛠️ Cara Menjalankan
+1.  Buka aplikasi **Visual Studio Code (VSCode)**.
+2.  Clone atau unduh repositori ini.
+3.  Buka file `challenge_24.11.6282.html` di VSCode.
+4.  Gunakan plugin **Live Server** untuk melihat hasil desain secara langsung di browser.
 
-
-HTML Table (<table>, <tr>, <td>, <th>): Digunakan untuk menampilkan data buku secara terstruktur.
-
-
-Table Merging (rowspan, colspan): Implementasi penggabungan baris untuk gambar produk dan penggabungan kolom untuk header tabel.
-
-
-HTML Form (<form>, <input>): Membangun kontrol input seperti Textbox, Password, Radio Button (Jenis Kelamin), dan Checkbox (Hobi).
-
-
-Dropdown & Area Teks (<select>, <textarea>): Menyediakan pilihan asal kota dan area input untuk komentar pengguna.
-
-📂 Struktur File
-challenge_24.11.6282.html: File utama kode HTML yang berisi implementasi tabel daftar buku dan formulir pendaftaran.
-
-Pemrog web.png: Asset gambar cover buku yang digunakan dalam elemen tabel.
-
-🛠️ Cara Menjalankan
-Buka aplikasi Visual Studio Code (VSCode).
-
-Clone atau unduh repositori ini.
-
-Pastikan file Pemrog web.png berada dalam folder yang sama dengan file HTML.
-
-Buka file challenge_24.11.6282.html di VSCode.
-
-Gunakan plugin Live Server untuk melihat hasil desain secara langsung di browser.
-
-Dibuat untuk memenuhi tugas praktikum Pemrograman Web - Universitas Amikom Yogyakarta (2026).
+---
+*Dibuat untuk memenuhi tugas praktikum Pemrograman Web - Universitas Amikom Yogyakarta (2026)*.
